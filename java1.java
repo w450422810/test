@@ -1,3 +1,3 @@
-public static vodi main (String args[]){
+public static void main (String args[]){
   system.out.println("haha");
 }
